@@ -2,6 +2,18 @@
 
 A robust Node.js API implementing JWT-based authentication with role-based access control (RBAC).
 
+## Project Screenshot
+### API Running Successfully and this the database 
+![database](https://github.com/user-attachments/assets/7875b5e7-2182-4bbe-b7e9-aa16a080a522)
+### Creating a User  
+![create user](https://github.com/user-attachments/assets/83bd1e48-9147-46c7-82ba-4f0c4e8040ec)
+### Login
+![login](https://github.com/user-attachments/assets/8672d3ca-1fbf-45dd-a3d2-218b29847973)
+### Get profile of user
+![profile](https://github.com/user-attachments/assets/2fa69a65-1a06-4960-a2c9-31286ffd8015)
+### Admin
+![admin](https://github.com/user-attachments/assets/d17a0640-91f3-48c9-b2ad-2785a13f399f)
+
 ## Features
 
 - 🔐 **Secure Authentication**
@@ -144,7 +156,3 @@ auth-api/
 - Use HTTPS in production
 - Set appropriate token expiration
 - Implement rate limiting for login attempts
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
